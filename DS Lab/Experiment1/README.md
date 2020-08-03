@@ -4,4 +4,4 @@
 1.
 2.
 3.
-![output](image (4).jpeg)
+![output](image (4).jpg)
