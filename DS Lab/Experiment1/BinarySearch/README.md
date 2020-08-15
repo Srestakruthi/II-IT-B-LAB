@@ -20,3 +20,8 @@ If the key value to be found is 7, we get the output as the element is found in 
 OUTPUT 3(If the key is 67) :
 If the key value to be found is 67, we get the output as the element is found in position 8.
 
+![Screenshot (9)](https://user-images.githubusercontent.com/69144342/90309279-cff49f80-df04-11ea-96ba-68fa5bd6def1.png) 
+
+![Screenshot (10)](https://user-images.githubusercontent.com/69144342/90309280-d125cc80-df04-11ea-948f-b8b1263e9ce0.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/69144342/90309283-d256f980-df04-11ea-808c-d3565b3ffd60.png)
