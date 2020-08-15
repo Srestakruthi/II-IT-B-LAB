@@ -17,7 +17,7 @@ If the key value to be found is given as 15, then it prints the element is found
 Output 2 (If the input is 99):
 If the key value to be found is 99, then it prints that element is not found.Since no match is found.
 
-![output1](Screenshot (5).png)
+![Screenshot (4)](https://user-images.githubusercontent.com/69144342/90307134-412a5780-def1-11ea-9111-fcca6cd0514f.png)
 
+![Screenshot (5)](https://user-images.githubusercontent.com/69144342/90307136-425b8480-def1-11ea-9ef4-d44e8e535467.png)
 
-![output2](Screenshot (4).png)
