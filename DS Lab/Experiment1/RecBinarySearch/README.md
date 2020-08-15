@@ -17,3 +17,10 @@ As key value is less than the mid value we search the lower half of the array by
 
 OUTPUT 3 (If the key is 67):
 when the key value is 67 it compares with the mid value and searches the upper half of the array as key value is greater than the mid value.It returns the output as the element is found in position 8.
+
+![Screenshot (13)](https://user-images.githubusercontent.com/69144342/90311631-90d14900-df1a-11ea-827e-9fc86c2b413a.png)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/69144342/90311632-92027600-df1a-11ea-9dce-7e48f3bf3e95.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/69144342/90311634-962e9380-df1a-11ea-8438-27c28d43cd6d.png)
+
