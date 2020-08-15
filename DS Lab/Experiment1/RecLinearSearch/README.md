@@ -13,3 +13,10 @@
 OUTPUT 1 (If the input is 15): when the user inputs the key value to be searched as 15, the output is obtained as element is found at position 6.
 
 OUTPUT 2 ( If the input is 99): when the user inputs the key value to be searched as 99, it prints the element is not found since no match for the element is found.
+
+![Screenshot (15)](https://user-images.githubusercontent.com/69144342/90308676-ff081280-defe-11ea-8eb9-1da4b149c499.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/69144342/90308681-03343000-deff-11ea-9b09-3e2216863dfd.png)
+
+
+
