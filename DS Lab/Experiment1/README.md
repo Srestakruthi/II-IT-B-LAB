@@ -13,5 +13,6 @@
 
 Output 1 (if the input is 15) :
 If the key value to be found is given as 15, then it prints the element is found at index 6.
+
 Output 2 (If the input is 99):
 If the key value to be found is 99, then it prints that element is not found.Since no match is found.
