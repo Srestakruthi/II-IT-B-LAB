@@ -14,3 +14,10 @@ OUTPUT 1:When we input the array elements as {15, 13, 29, 3, 12} by going throug
 OUTPUT 2 : When we input the array elements as {15, 13, 29, 3, 12, -1,7, -9, 99, 56} by going through the bubble sort function it checks whether the given array is sorted or not. If it is not sorted, then the adjacent elements are compared and get swapped if the first element is greater than next element and continues till the entire array is sorted and gives the output as {-9, -1, 3, 7, 12, 13, 15, 29, 56, 99}. In this case we can see that negative elements are also sorted.
 
 OUTPUT 3 : When we input the array elements as {1, 13, 57, 64, 92} by going through the bubble sort function, it checks whether the given array is sorted or not. Here we have already given a sorted array. So we get the output as {1, 13, 57, 64, 92}.
+
+
+![Screenshot (19)](https://user-images.githubusercontent.com/69144342/90958981-3190ad00-e4b5-11ea-82cd-b249b222d925.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/69144342/90958983-35243400-e4b5-11ea-8bdb-23090ebc635e.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/69144342/90958993-41a88c80-e4b5-11ea-8819-85a8e57781c7.png)
