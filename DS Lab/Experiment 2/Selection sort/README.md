@@ -19,3 +19,11 @@ In this case take a sorted array {1, 9, 11, 28, 52}. Though the elements are alr
 OUTPUT3:
 
 In this case take an array which consists of repeating elements as {17, 24, 13, 17, 6}. Compare each element with the remaining elements, if the first element is greater than the other elements interchange their position and this process continues till all elements are sorted. In this as we are having same element repeating twice, that element will be printed next to each other and we get the output as {6, 13, 17, 17, 24}
+
+![Screenshot (26)](https://user-images.githubusercontent.com/69144342/92989374-9443fa00-f4f1-11ea-9568-a0e3a4689863.png)
+
+
+![Screenshot (27)](https://user-images.githubusercontent.com/69144342/92989387-afaf0500-f4f1-11ea-873f-f07533b04eea.png)
+
+
+![Screenshot (28)](https://user-images.githubusercontent.com/69144342/92989407-c81f1f80-f4f1-11ea-8be6-48faac6a8920.png)
