@@ -7,3 +7,15 @@
 4. If the element is greater than the other elements then we have to interchange the elements position.
 5. This process contiues till all the elements of the given array are sorted.
 #### OUTPUT OBTAINED:
+OUTPUT1:
+
+First declare the array elements as{12, 27, 13, 15, 43}.Here the array is not sorted, so compare each element with remaining elements, if the first element is greater than the other elements interchange their positions and this process continues till all the elements in the array are sorted.
+we get the sorted array as {3, 12, 15, 27, 43}
+
+OUTPUT2:
+
+In this case take a sorted array {1, 9, 11, 28, 52}. Though the elements are already sorted, each element is compared with remaining elements and prints the same array as it is already sorted.
+
+OUTPUT3:
+
+In this case take an array which consists of repeating elements as {17, 24, 13, 17, 6}. Compare each element with the remaining elements, if the first element is greater than the other elements interchange their position and this process continues till all elements are sorted. In this as we are having same element repeating twice, that element will be printed next to each other and we get the output as {6, 13, 17, 17, 24}
